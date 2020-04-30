@@ -1,0 +1,12 @@
+.singleItemStyle {
+  background-image: linear-gradient(blue, white);
+  border: 2px black solid;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  padding: .8rem;
+}
+.singleItemStyle--italic{
+  font-size: 75%;
+  font-style: italic;
+  padding: .5rem;
+}
